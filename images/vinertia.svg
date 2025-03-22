@@ -174,15 +174,16 @@
     </g>
     <g
        id="g1"
-       transform="matrix(0.98964969,0,0,0.98964969,-50.761266,-11.72144)">
+       transform="matrix(0.98964969,0,0,0.98964969,-50.761266,-11.72144)"
+       style="fill:#6b46c1;fill-opacity:1">
       <path
          d="m 367.44561,174.09584 h -39.36228 l 38.03546,38.03538 -38.03546,38.03546 h 39.36228 l 38.03537,-38.03546 z"
          id="path1"
-         style="fill:#5468ff;fill-opacity:1;stroke-width:2.21136" />
+         style="fill:#6b46c1;fill-opacity:1;stroke-width:2.21136" />
       <path
          d="m 426.9312,174.09584 h -39.36228 l 38.03546,38.03538 -38.03546,38.03546 h 39.36228 l 38.03538,-38.03546 z"
          id="path2"
-         style="fill:#5468ff;fill-opacity:1;stroke-width:2.21136" />
+         style="fill:#6b46c1;fill-opacity:1;stroke-width:2.21136" />
     </g>
   </g>
 </svg>
