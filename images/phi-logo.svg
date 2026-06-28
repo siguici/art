@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="226.23936"
+   height="275.48401"
+   viewBox="0 0 226.23936 275.48401"
+   sodipodi:docname="phi.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.0800781"
+     inkscape:cx="112.02893"
+     inkscape:cy="137.49005"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1"
+     transform="translate(-143.13925,-118.69156)">
+    <path
+       style="fill:#657ac9;stroke:none;fill-opacity:1"
+       d="m 241,294 c -51.94537,-10.07376 -74.80617,-61.99622 -57.30478,-110 3.55109,-9.74014 9.35185,-19.39914 16.39505,-27 5.0242,-5.422 12.77521,-10.44363 16.22145,-17.03937 3.84155,-7.35232 -0.19588,-16.46811 -8.31172,-18.38809 -8.13141,-1.92364 -17.10077,5.81967 -23,10.44211 C 166.27133,146.68982 152.13214,167.86438 146.375,191 130.69409,254.01526 173.57843,318.44183 241,319 v 51 c 0,7.73569 -0.85924,15.97559 6.09413,21.19598 8.55876,6.42566 21.93706,1.89417 25.10185,-8.19598 C 274.19656,376.62164 273,368.61823 273,362 v -43 c 17.80905,-0.36755 37.39685,-7.82855 52,-17.74615 50.64294,-34.39368 61.90274,-122.04963 12.99615,-163.81479 C 308.25549,112.04117 255.1994,107.86591 243.37808,154 238.95093,171.2775 241,190.29547 241,208 v 86 m 32,0 v -63 -42 c 0,-11.64413 -2.39914,-26.39063 3.41745,-36.99924 10.53934,-19.22217 33.99997,-2.8056 42.82251,8.99924 C 353.22388,206.47162 334.20117,286.09631 273,294 Z"
+       id="path1" />
+  </g>
+</svg>
